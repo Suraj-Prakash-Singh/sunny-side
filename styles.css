@@ -519,14 +519,20 @@ footer{
     /* About */
 
     .about-content{
-        max-width: unnset;
+        max-width: unset;
         padding: 155px 130px;
+        /* margin: none; */
     }
 
     .about-h2{
         font-size: 40px;
+        /* width: 460px;
+        height: 91px; */
     }
-    .about-p{ margin-bottom: 40px; }
+    .about-p{ margin-bottom: 40px;
+    /* width: 460px;
+    height: 91px; */
+ }
 
     /* testimonials */
 
